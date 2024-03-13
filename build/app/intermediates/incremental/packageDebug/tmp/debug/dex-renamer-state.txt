@@ -1,0 +1,4 @@
+#Thu Mar 14 00:23:36 EET 2024
+base.0=/Users/aymankamal/Desktop/flutter_projects/notes_app_withsqllite/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
